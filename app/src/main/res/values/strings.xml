@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">AndroidCertification</string>
+    <string name="app_name">GitUser</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">GitUser</string>
+    <string name="slide_1_desc">Collaborate with other developers from Nigeria/Lagos</string>
+
+    <string name="slide_2_title">Summer Code</string>
+    <string name="slide_2_desc">Supported by New Horizon and CloudWare Technologies</string>
+
+    <string name="slide_3_title">Android Ibadan</string>
+    <string name="slide_3_desc">A community of passionate programmers that are ready to change the world</string>
+
+    <string name="slide_4_title">Responsiveness</string>
+    <string name="slide_4_desc">Fully responsive application by Olabode Oyinkansola Qudus</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
 </resources>
